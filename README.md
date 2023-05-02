@@ -9,9 +9,13 @@ The generated images are stored in a MongoDB database and displayed back to the 
 To run the AI image generation project using MERN stack and DALL-E API, you would need to follow these steps:
 
 Clone the project repository from GitHub onto your local machine.
+
 Install Node.js and MongoDB on your local machine if you haven't already.
+
 Open a terminal or command prompt and navigate to the project directory.
+
 Install the project dependencies by running the following command: npm install
+
 Create a .env file in the project root directory and add the following environment variables:
 
 #file
